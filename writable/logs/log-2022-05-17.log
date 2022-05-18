@@ -1,0 +1,495 @@
+CRITICAL - 2022-05-17 13:22:01 --> Too few arguments to function App\Controllers\Password::reset(), 0 passed in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php on line 832 and exactly 1 expected
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->reset()
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#5 {main}
+CRITICAL - 2022-05-17 13:22:36 --> Too few arguments to function App\Controllers\Password::reset(), 0 passed in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php on line 832 and exactly 1 expected
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->reset()
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#5 {main}
+CRITICAL - 2022-05-17 13:23:08 --> Too few arguments to function App\Controllers\Password::reset(), 0 passed in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php on line 832 and exactly 1 expected
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->reset()
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#5 {main}
+CRITICAL - 2022-05-17 13:47:04 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:04 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo-mini.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:04 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face4.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:04 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face2.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:04 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face3.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:04 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face5.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:09 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:09 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo-mini.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:09 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face4.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:09 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face2.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:09 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face3.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:47:09 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face5.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:48:11 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:48:11 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo-mini.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:48:11 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face4.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:48:12 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face2.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:48:12 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face5.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 13:48:12 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face3.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+ERROR - 2022-05-17 13:48:28 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+CRITICAL - 2022-05-17 13:48:28 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/MySQLi/Connection.php(292): mysqli->query('UPDATE `usuario...', 0)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(656): CodeIgniter\Model->update('13', Object(App\Entities\Usuario))
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(43): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->processaEsqueci()
+#10 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#11 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#14 {main}
+ERROR - 2022-05-17 13:49:22 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+CRITICAL - 2022-05-17 13:49:22 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/MySQLi/Connection.php(292): mysqli->query('UPDATE `usuario...', 0)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(656): CodeIgniter\Model->update('13', Object(App\Entities\Usuario))
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(43): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->processaEsqueci()
+#10 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#11 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#14 {main}
+CRITICAL - 2022-05-17 16:34:00 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:00 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo-mini.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:00 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face4.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:00 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face2.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:00 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face5.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:00 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face3.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:03 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 71
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(71): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->editar('images', 'logo.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:03 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 71
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(71): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->editar('images', 'faces', 'face5.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:03 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 71
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(71): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->editar('images', 'logo-mini.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:03 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 71
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(71): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->editar('images', 'faces', 'face4.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:03 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 71
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(71): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->editar('images', 'faces', 'face2.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:03 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 71
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(71): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->editar('images', 'faces', 'face3.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:06 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:06 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo-mini.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:06 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face4.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:06 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face2.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:06 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face3.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:34:06 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face5.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+ERROR - 2022-05-17 16:34:13 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+CRITICAL - 2022-05-17 16:34:13 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/MySQLi/Connection.php(292): mysqli->query('UPDATE `usuario...', 0)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(656): CodeIgniter\Model->update('13', Object(App\Entities\Usuario))
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(43): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->processaEsqueci()
+#10 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#11 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#14 {main}
+CRITICAL - 2022-05-17 16:39:27 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:39:27 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'logo-mini.svg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:39:27 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face4.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:39:27 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face2.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:39:27 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face3.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+CRITICAL - 2022-05-17 16:39:27 --> Argument 1 passed to App\Controllers\Admin\Usuarios::buscarUsuarioOu404() must be of the type int or null, string given, called in /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php on line 58
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Admin/Usuarios.php(58): App\Controllers\Admin\Usuarios->buscarUsuarioOu404('images')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Admin\Usuarios->show('images', 'faces', 'face5.jpg')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Usuarios))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
+ERROR - 2022-05-17 16:39:38 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+CRITICAL - 2022-05-17 16:39:38 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/MySQLi/Connection.php(292): mysqli->query('UPDATE `usuario...', 0)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(656): CodeIgniter\Model->update('13', Object(App\Entities\Usuario))
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(43): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->processaEsqueci()
+#10 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#11 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#14 {main}
+ERROR - 2022-05-17 16:41:05 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+CRITICAL - 2022-05-17 16:41:05 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/MySQLi/Connection.php(292): mysqli->query('UPDATE `usuario...', 0)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(656): CodeIgniter\Model->update('2', Object(App\Entities\Usuario))
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(43): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->processaEsqueci()
+#10 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#11 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#14 {main}
+ERROR - 2022-05-17 16:41:14 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+CRITICAL - 2022-05-17 16:41:14 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/MySQLi/Connection.php(292): mysqli->query('UPDATE `usuario...', 0)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(656): CodeIgniter\Model->update('2', Object(App\Entities\Usuario))
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(43): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->processaEsqueci()
+#10 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#11 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#14 {main}
+ERROR - 2022-05-17 16:41:53 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+CRITICAL - 2022-05-17 16:41:53 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/MySQLi/Connection.php(292): mysqli->query('UPDATE `usuario...', 0)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(656): CodeIgniter\Model->update('3', Object(App\Entities\Usuario))
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(43): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->processaEsqueci()
+#10 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#11 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#14 {main}
+ERROR - 2022-05-17 16:42:58 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+ERROR - 2022-05-17 16:43:07 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+ERROR - 2022-05-17 16:44:09 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+CRITICAL - 2022-05-17 16:44:09 --> Duplicate entry '86339a6c15de2caf0dff25e1eb1a7c874c08db17a748e1fd5e0b8d171b7199e1' for key 'reset_hash'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/MySQLi/Connection.php(292): mysqli->query('UPDATE `usuario...', 0)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Database/BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/BaseModel.php(656): CodeIgniter\Model->update('13', Object(App\Entities\Usuario))
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(43): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->processaEsqueci()
+#10 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#11 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#13 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#14 {main}

@@ -1,0 +1,101 @@
+CRITICAL - 2022-05-16 19:15:06 --> Class 'Config\Service' not found
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Home->email()
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#5 {main}
+CRITICAL - 2022-05-16 20:04:27 --> Undefined variable: titulo
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Views/Password/esqueci.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Users/matheusg...', 3, Array)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/View/View.php(210): include('/Users/matheusg...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Common.php(1089): CodeIgniter\View\View->render('Password/esquec...', Array, true)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(23): view('Password/esquec...', Array)
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->esqueci()
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#10 {main}
+CRITICAL - 2022-05-16 20:08:47 --> Undefined variable: titulo
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Views/Password/esqueci.php(3): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Users/matheusg...', 3, Array)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/View/View.php(210): include('/Users/matheusg...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Common.php(1089): CodeIgniter\View\View->render('Password/esquec...', Array, true)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(23): view('Password/esquec...', Array)
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->esqueci()
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#10 {main}
+CRITICAL - 2022-05-16 20:09:07 --> Undefined variable: titulo
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Views/Password/esqueci.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/Users/matheusg...', 75, Array)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/View/View.php(210): include('/Users/matheusg...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Common.php(1089): CodeIgniter\View\View->render('Password/esquec...', Array, true)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(23): view('Password/esquec...', Array)
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->esqueci()
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#10 {main}
+CRITICAL - 2022-05-16 20:15:52 --> Class 'App\Filters\Throttle' not found
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('password/proces...', 'before')
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#4 {main}
+CRITICAL - 2022-05-16 20:25:09 --> Undefined constant 'App\Filters\Throttle'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(264): include_once()
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/matheusg...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\Thr...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\Thr...')
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Filters/Filters.php(166): spl_autoload_call('App\\Filters\\Thr...')
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('password/proces...', 'before')
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#9 {main}
+CRITICAL - 2022-05-16 20:25:27 --> Undefined constant 'App\Filters\ThrottleFilter'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(264): include_once()
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/matheusg...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\Thr...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\Thr...')
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Filters/Filters.php(166): spl_autoload_call('App\\Filters\\Thr...')
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('password/proces...', 'before')
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#9 {main}
+CRITICAL - 2022-05-16 20:26:08 --> Undefined constant 'App\Filters\ThrottleFilter'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(264): include_once()
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/matheusg...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\Thr...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\Thr...')
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Filters/Filters.php(166): spl_autoload_call('App\\Filters\\Thr...')
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('password/proces...', 'before')
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#9 {main}
+CRITICAL - 2022-05-16 20:29:28 --> Undefined constant 'App\Filters'
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(264): include_once()
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/matheusg...')
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\Thr...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\Thr...')
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Filters/Filters.php(166): spl_autoload_call('App\\Filters\\Thr...')
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('password/proces...', 'before')
+#6 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#9 {main}
+CRITICAL - 2022-05-16 20:39:15 --> Call to undefined method App\Models\UsuarioModel::buscaUsuarioPorEmail
+#0 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/app/Controllers/Password.php(31): CodeIgniter\Model->__call('buscaUsuarioPor...', Array)
+#1 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(832): App\Controllers\Password->processaEsqueci()
+#2 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Password))
+#3 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 /Users/matheusgomes/Downloads/XAMPP/xamppfiles/htdocs/food/system/Commands/Server/rewrite.php(43): require_once('/Users/matheusg...')
+#6 {main}
